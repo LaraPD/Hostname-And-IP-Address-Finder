@@ -6,13 +6,16 @@ It can be useful in cybersecurity, networking, or just to identify your machine 
 🌍 Available languages | [ESPAÑOL](README.es.md) 🔁 [ENGLISH](README.md) 
 
 ## ✨ Features
-- Retrieves the hostname of the current device.
-- Retrieves the main IP address of the current device.
+- Get the hostname of the current device.
+- Get the main IP address of the current device.
 - Easy and simple to run and understand.
 
 ## 📚 Requirements
 - Python 3.x
-- No extra packages required (uses the built-in `socket` library).
+- No extra packages required. However, it may be necessary to install the *sockets* module using the command:
+```bash
+pip install sockets
+```
 
 ## 🎯 Usage
 Clone the repository and run the script from the terminal:
@@ -27,5 +30,5 @@ python hostname_ip_finder.py
 ## 📌 Recommendations
 - This script only gives the primary IP.
 - For all network interfaces consider using *psutil* or *netifaces*.
-- Useful as a building block for larger cybersecurity projects, such as network scanning and monitoring...
+- Advanced options: Integrate with port scanning or export results to CSV/JSON for auditing.
 

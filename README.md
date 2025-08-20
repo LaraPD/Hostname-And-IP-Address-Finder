@@ -1,6 +1,6 @@
 # 🖥️ Hostname and IP Address Finder
 
-This project finds the hostname and IP address of your device.  
+This project aims to find the hostname and IP address of a device. 
 It can be useful in cybersecurity, networking, or just to identify your machine in a network.
 
 🌍 Available languages | [ESPAÑOL](README.es.md) 🔁 [ENGLISH](README.md) 

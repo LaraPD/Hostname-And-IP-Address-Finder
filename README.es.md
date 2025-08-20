@@ -1,6 +1,6 @@
 # 🖥️ Buscador de Hostname y direcciones IP
 
-Este proyecto busca obtener el nombre del equipo o hostname y la dirección IP del dispositivo. 
+Este proyecto busca obtener el nombre del equipo (hostname) y la dirección IP del dispositivo. 
 Es útil en ámbito de ciberseguridad, redes o simplemente para identificar una máquina en una red local.
 Ideal como punto de partida para proyectos de seguridad y auditoría.
 

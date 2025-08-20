@@ -8,7 +8,7 @@ It can be useful in cybersecurity, networking, or just to identify your machine 
 ## ✨ Features
 - Retrieves the hostname of the current device.
 - Retrieves the main IP address of the current device.
-- Easy to run and understand.
+- Easy and simple to run and understand.
 
 ## 📚 Requirements
 - Python 3.x

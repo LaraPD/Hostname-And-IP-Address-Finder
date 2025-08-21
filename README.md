@@ -16,7 +16,10 @@ It can be useful in cybersecurity, networking, or just to identify your machine 
 ```bash
 pip install sockets
 ```
-This allows you to manage the network from Python.
+
+### 🔎 About socket
+*socket* is a standard Python library.
+It allows communication between devices over networks.
 
 ## 🎯 Usage
 Clone the repository and run the script from the terminal:

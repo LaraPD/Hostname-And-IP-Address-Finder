@@ -13,10 +13,11 @@ Ideal como punto de partida para proyectos de seguridad y auditoría.
 
 ## 📚 Requisitos
 - Python 3.x
-- No requiere paquetes externos. No obstante, puede suceder que se requiera instalar el módulo *sockets* mediante el uso del comando:
+- No requiere paquetes externos. No obstante, puede suceder que se requiera instalar el módulo *socket* mediante el uso del comando:
 ```bash
 pip install sockets
 ```
+Esto permitirá administrar la red desde Python.
 
 ## 🎯 Uso
 Clona el repositorio y ejecuta el script desde la terminal:

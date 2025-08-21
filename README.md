@@ -12,10 +12,11 @@ It can be useful in cybersecurity, networking, or just to identify your machine 
 
 ## 📚 Requirements
 - Python 3.x
-- No extra packages required. However, it may be necessary to install the *sockets* module using the command:
+- No extra packages required. However, it may be necessary to install the *socket* module using the command:
 ```bash
 pip install sockets
 ```
+This allows you to manage the network from Python.
 
 ## 🎯 Usage
 Clone the repository and run the script from the terminal:

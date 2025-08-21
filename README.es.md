@@ -4,7 +4,7 @@ Este proyecto busca obtener el nombre del equipo (hostname) y la dirección IP d
 Es útil en ámbito de ciberseguridad, redes o simplemente para identificar una máquina en una red local.
 Ideal como punto de partida para proyectos de seguridad y auditoría.
 
-🌍 Idiomas disponibles | [EN](README.md) 🔁 [ES](README.es.md)
+🌍 Idiomas disponibles | [ENGLISH](README.md) 🔁 [ESPAÑOL](README.es.md)
 
 ## ✨ Características
 - Obtiene el hostname del equipo actual.
@@ -17,7 +17,9 @@ Ideal como punto de partida para proyectos de seguridad y auditoría.
 ```bash
 pip install sockets
 ```
-Esto permitirá administrar la red desde Python.
+### 🔎 Sobre socket
+*socket* es una librería estándar de Python.
+Permite la comunicación entre dispositivos a través de redes.  
 
 ## 🎯 Uso
 Clona el repositorio y ejecuta el script desde la terminal:
@@ -30,6 +32,6 @@ python hostname_ip_finder.py
 <img width="337" height="39" alt="image" src="https://github.com/user-attachments/assets/f1c2b60f-ec62-4012-ac2e-f164073b1ba5" />
 
 ## 📌 Recomendaciones
-- Este script solo devulve la IP principal asociada al hostname.
+- Este script solo identifica la IP asociada al hostname.
 - Para listar todas las IPs por interfaz se puede considerar hacer uso de las librerías *psutil* o *netifaces*.
 - Opciones avanzadas: integración con escaneo de puertos o exportar resultados a CSV/JSON para auditorías.

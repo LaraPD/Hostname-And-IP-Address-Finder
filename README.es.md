@@ -4,7 +4,7 @@ Este proyecto busca obtener el nombre del equipo (hostname) y la dirección IP d
 Es útil en ámbito de ciberseguridad, redes o simplemente para identificar una máquina en una red local.
 Ideal como punto de partida para proyectos de seguridad y auditoría.
 
-🌍 Idiomas disponibles | [ENGLISH](README.md) 🔁 [ESPAÑOL](README.es.md)
+🌍 Idiomas disponibles | [EN](README.md) 🔁 [ES](README.es.md)
 
 ## ✨ Características
 - Obtiene el hostname del equipo actual.

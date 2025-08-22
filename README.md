@@ -27,6 +27,7 @@ Clone the repository and run the script from the terminal:
 ```bash
 python hostname_ip_finder.py
 ```
+🐍 [Go to the code](hostname_ip_finder.py)
 
 ## ✍️ Example
 <img width="337" height="39" alt="image" src="https://github.com/user-attachments/assets/f1c2b60f-ec62-4012-ac2e-f164073b1ba5" />
